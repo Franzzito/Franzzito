@@ -1,6 +1,7 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-<h1>Hi 👋, I'm Franz Chanini Mena</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <h1>Hola 👋, soy Franz Chanini Mena</h1>
+  <p> Soy egresado en la carrera profesional de Ingeniería en Informática y Sistemas con excelentes relaciones interpersonales, liderazgo, adaptabilidad al cambio y aprendizaje continuo, compromiso, asertivo, capacidad para manejar conflictos, comunicación y trabajo en equipo como elemento base para lograr objetivos.  Conocimientos en temas de informática, desarrollo web, Microsoft office, ciberseguridad, diseño gráfico, mantenimiento y actualización de equipos informáticos, asistencia técnica al personal, inglés intermedio e Inteligencia de negocios.</p>
 </div>
 
 
